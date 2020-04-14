@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <TextView
+        android:id="@+id/actionButton1"
+        android:layout_width="0dp"
+        android:padding="@dimen/sel_swipe_button_horizontal_padding"
+        android:drawablePadding="@dimen/sel_swipe_button_horizontal_padding"
+        android:includeFontPadding="false"
+        android:background="@color/colorPrimaryDark"
+        android:layout_height="match_parent"
+        android:layout_weight="2"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:textStyle="bold"
+        android:textColor="@color/white"
+        android:ellipsize="end"
+        android:maxLines="1" />
+
+    <TextView
+        android:id="@+id/actionButton2"
+        android:layout_width="0dp"
+        android:padding="@dimen/sel_swipe_button_horizontal_padding"
+        android:drawablePadding="@dimen/sel_swipe_button_horizontal_padding"
+        android:includeFontPadding="false"
+        android:background="@color/colorAccent"
+        android:layout_height="match_parent"
+        android:layout_weight="2"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:textColor="@color/white"
+        android:textStyle="bold"
+        android:ellipsize="end"
+        android:maxLines="1"  />
+
+    <TextView
+        android:id="@+id/actionButton3"
+        android:background="@color/colorPrimary"
+        android:layout_width="0dp"
+        android:padding="@dimen/sel_swipe_button_horizontal_padding"
+        android:drawablePadding="@dimen/sel_swipe_button_horizontal_padding"
+        android:includeFontPadding="false"
+        android:layout_weight="2"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:textColor="@color/white"
+        android:textStyle="bold"
+        android:ellipsize="end"
+        android:maxLines="1"  />
+
+</merge>

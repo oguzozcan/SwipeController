@@ -1,0 +1,3 @@
+rootProject.name='SwipeController'
+include ':app'
+include ':swipelibrary'

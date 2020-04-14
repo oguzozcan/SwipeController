@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="swipe_image_width">90dp</dimen>
+    <dimen name="swipe_image_height">90dp</dimen>
+
+    <dimen name="swipe_text_big">18sp</dimen>
+    <dimen name="swipe_text_small">14sp</dimen>
+
+    <dimen name="swipe_button_horizontal_padding">5dp</dimen>
+    <dimen name="swipe_button_text_size">14sp</dimen>
+
+    <dimen name="swipe_row_background_width">210dp</dimen>
+
+    <dimen name="min_sel_swipe_button_width">110dp</dimen>
+    <dimen name="sel_swipe_button_width">70dp</dimen>
+    <dimen name="sel_swipe_button_horizontal_padding">4dp</dimen>
+    <dimen name="sel_swipe_button_vertical_padding">23dp</dimen>
+</resources>
